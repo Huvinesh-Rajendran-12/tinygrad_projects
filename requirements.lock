@@ -12,6 +12,8 @@
 -e file:.
 numpy==2.1.1
     # via tinygrad
+pillow==10.4.0
+    # via tinygrad-projects
 pyobjc-core==10.3.1
     # via pyobjc-framework-cocoa
     # via pyobjc-framework-libdispatch
